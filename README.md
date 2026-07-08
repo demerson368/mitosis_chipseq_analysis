@@ -110,4 +110,4 @@ Run macs2 peak calling on merged and 0min replicates separately.  For merged, we
 
 # Step6:  Strict intersection of Rad21 0min rep3 and rep4. Strict intersection of CTCF 0min rep 0,1, and 2.  
 
-3 Step7:  Merge all peaks together in a non-redundant peak list.  Peaks are merged as long as they share 1 bp   
+# Step7:  Merge all peaks together in a non-redundant peak list.  Peaks are merged as long as they share 1 bp   
